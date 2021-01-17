@@ -1,3 +1,3 @@
 # News_feed Dapp
 #### Description:
-Blockchain news_feed powered by Ethereum smart contracts
+Dapp using truffle.js framework for posting news with solidity contracts.
