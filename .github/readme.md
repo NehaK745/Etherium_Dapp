@@ -11,7 +11,7 @@ https://truffleframework.com/ganache
 * Compiling contracts</br>
     `truffle compile`
 * Migrating to ganache</br>
-**Note depending on ganache cli/gui you may need to change truffle.js port settings Current listing on port : 7545**</br>
+**Note: depending on ganache cli/gui, you may need to change truffle.js port settings Currently listening on port : 7545**</br>
 ` truffle migrate --network development  --reset --all`
 *  Start FrontEnd DApp on ganache</br>
 `  npm run dev`
